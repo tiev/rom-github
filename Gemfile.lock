@@ -41,7 +41,7 @@ GEM
       dry-logic (~> 1.0, >= 1.0.2)
     ice_nine (0.11.2)
     public_suffix (3.1.1)
-    rake (10.5.0)
+    rake (13.0.1)
     rom (5.1.2)
       rom-changeset (~> 5.1)
       rom-core (~> 5.1, >= 5.1.2)
@@ -92,7 +92,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.17)
   byebug
-  rake (~> 10.0)
+  rake (~> 13.0)
   rom
   rom-github!
   rspec (~> 3.0)
